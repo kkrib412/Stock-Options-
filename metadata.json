@@ -1,0 +1,6 @@
+{
+  "name": "Market Order Book Ladder",
+  "description": "High-performance real-time market visualization featuring an interpolated horizontal depth scale, vertical canvas ladder DOM, dynamic imbalance and trade-velocity analyzers, and spatial synthesizer audio sonification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
